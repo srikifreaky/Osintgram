@@ -34,36 +34,28 @@ It is recommended you to to use our dummy account to access this tool. If you us
 
 ## Installation ⚙️
 
-1. Fork/Clone/Download this repo
+1. Install git,clone and pip to the linux OS and type the following commands!
 
-    `git clone https://github.com/Datalux/Osintgram.git`
+    `git clone https://github.com/srikifreaky/Osintgram.git`
 
 2. Navigate to the directory
 
     `cd Osintgram`
 
-3. Create a virtual environment for this project
+3. Install Requirements!
 
-    `python3 -m venv venv`
+    `pip3 install -r requirements.txt`
 
-4. Load the virtual environment
-   - On Windows Powershell: `.\venv\Scripts\activate.ps1`
-   - On Linux and Git Bash: `source venv/bin/activate`
+4.Then go to the #config directory and 
   
-5. Run `pip install -r requirements.txt`
-
-6. Open the `credentials.ini` file in the `config` folder and write your Instagram account username and password in the corresponding fields
+   nano `credentials.ini`! type in the user name and password and then echo `"{}" settings.json` and return back to the main menu!
     
-    Alternatively, you can run the `make setup` command to populate this file for you.
+    
+5. Run the main.py 
 
-7. Run the main.py script in one of two ways
-
-    * As an interactive prompt `python3 main.py <target username>`
-    * Or execute your command straight away `python3 main.py <target username> --command <command>`
+    type `python3 main.py <usename_of_the_account > `
 
 ## Images 📸
-
-![3](https://user-images.githubusercontent.com/93464981/139574483-76baa4fb-3c0c-432a-bbf8-8203c3d4bd99.PNG)
 
 # Step 1:
 
