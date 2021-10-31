@@ -1,8 +1,9 @@
 # Osintgram 🔎📸
 
+Osintgram OSINT Tool Termux & Kali Linux 
+A Tool For Fetching Information of an individual target On Instagram. You can Get certain information like followers verified or not following comments likes and other information. 
 
-
-Osintgram is a information gathering tool on instagram!
+It is recommended you to to use our dummy account to access this tool. If you use your real account then it will be Ban for temporary time are for permanent.
 
 ## Commands
 
