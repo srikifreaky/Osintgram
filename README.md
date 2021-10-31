@@ -58,3 +58,12 @@ It is recommended you to to use our dummy account to access this tool. If you us
 
     * As an interactive prompt `python3 main.py <target username>`
     * Or execute your command straight away `python3 main.py <target username> --command <command>`
+
+## Images 📸
+Step 1:
+![1](https://user-images.githubusercontent.com/93464981/139574452-63630f35-90aa-458e-a8f9-5504b73464f1.PNG)
+Step 2:
+![2](https://user-images.githubusercontent.com/93464981/139574474-8d7d6d6f-3fdd-4b16-95fb-800f0f72e2dd.PNG)
+Step 3 :
+![3](https://user-images.githubusercontent.com/93464981/139574483-76baa4fb-3c0c-432a-bbf8-8203c3d4bd99.PNG)
+
