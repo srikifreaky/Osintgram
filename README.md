@@ -1,24 +1,10 @@
 # Osintgram 🔎📸
 
-[![version-1.3](https://img.shields.io/badge/version-1.3-green)](https://github.com/Datalux/Osintgram/releases/tag/1.3)
-[![GPLv3](https://img.shields.io/badge/license-GPLv3-blue)](https://img.shields.io/badge/license-GPLv3-blue)
-[![Python3](https://img.shields.io/badge/language-Python3-red)](https://img.shields.io/badge/language-Python3-red)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://t.me/osintgram)
-[![Docker](https://img.shields.io/badge/Docker-Supported-blue)](https://img.shields.io/badge/Docker-Supported-blue)
 
-Osintgram is a **OSINT** tool on Instagram to collect, analyze, and run reconnaissance.
 
-<p align="center">
-<img align="center" src=".img/carbon.png" width="900">
-</p>
+Osintgram is a information gathering tool on instagram!
 
-Disclaimer: **FOR EDUCATIONAL PURPOSE ONLY! The contributors do not assume any responsibility for the use of this tool.**
-
-Warning: It is advisable to **not** use your own/primary account when using this tool.
-
-## Tools and Commands 🧰
-
-Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname. You can get:
+## Commands
 
 ```text
 - addrs           Get all registered addressed by target photos
